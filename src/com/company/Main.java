@@ -12,7 +12,7 @@ public class Main extends SolarSystem {
         Sun feron=new Sun();
         feron.heat="650000k";
         feron.radius=1548865488;
-        feron.temperature="5748859415 degrees";
+        feron.temperature="5748859415 deg";
     }
 }
 
